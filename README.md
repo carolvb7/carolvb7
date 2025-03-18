@@ -6,8 +6,8 @@
 - ⚡ Fact: English C1.
 <div align="center">
   <a href="https://github.com/carolvb7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolvb7&show_icons=true&theme=transparent&hide_rank=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolvb7&langs_count=8&theme=transparent&layout=compact"> 
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carolvb7&show_icons=true&theme=transparent&hide_rank=true">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolvb7&langs_count=8&theme=transparent&layout=compact"> 
   </a>
 </div>
     
