@@ -4,10 +4,11 @@
 - 🔭 Looking for job opportunities😁
 - 🌱 Studying Software Engineering at UCSAL (Universidade Católica do Salvador) - Learning Front-end, MYSQL, POSTGRE, python and Java.
 - ⚡ Fact: English C1.
-<div style="display: inline-block">
+<div align="center">
   <a href="https://github.com/carolvb7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolvb7&show_icons=true&theme=transparent&hide_rank=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolvb7&langs_count=8&theme=transparent&layout=compact"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolvb7&show_icons=true&theme=transparent&hide_rank=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolvb7&langs_count=8&theme=transparent&layout=compact"> 
+  </a>
 </div>
     
 <div style="display: inline_block"><br>
